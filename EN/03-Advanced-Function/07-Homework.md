@@ -649,7 +649,7 @@ yes
 
 [slide]
 # Soluton: Argument Info
-[code-task title="Soluton: Argument Info" taskId="js-advanced-advanced-functions-homework-soluton-05" executionType="tests-execution" executionStrategy="javascript-code" requiresInput]
+[code-task title="Soluton: Argument Info" taskId="js-advanced-advanced-functions-homework-soluton-06" executionType="tests-execution" executionStrategy="javascript-code" requiresInput]
 [code-editor language=javascript]
 ```
 function solution() {
@@ -878,7 +878,7 @@ yes
 
 [slide]
 # Problem: Personal BMI
-[code-task title="Problem: Personal BMI" taskId="js-advanced-advanced-functions-homework-problem-06" executionType="tests-execution" executionStrategy="javascript-code" requiresInput]
+[code-task title="Problem: Personal BMI" taskId="js-advanced-advanced-functions-homework-problem-07" executionType="tests-execution" executionStrategy="javascript-code" requiresInput]
 [code-editor language=javascript]
 ```
 
@@ -1043,7 +1043,7 @@ yes
 
 [slide]
 # Problem: Vector Math
-[code-task title="Problem: Vector Math" taskId="js-advanced-advanced-functions-homework-problem-07" executionType="tests-execution" executionStrategy="javascript-code" requiresInput]
+[code-task title="Problem: Vector Math" taskId="js-advanced-advanced-functions-homework-problem-08" executionType="tests-execution" executionStrategy="javascript-code" requiresInput]
 [code-editor language=javascript]
 ```
 
@@ -1247,7 +1247,7 @@ yes
 
 [slide]
 # Problem: Breakfast Robot
-[code-task title="Problem: Breakfast Robot" taskId="js-advanced-advanced-functions-homework-problem-08" executionType="tests-execution" executionStrategy="javascript-code" requiresInput]
+[code-task title="Problem: Breakfast Robot" taskId="js-advanced-advanced-functions-homework-problem-09" executionType="tests-execution" executionStrategy="javascript-code" requiresInput]
 [code-editor language=javascript]
 ```
 
